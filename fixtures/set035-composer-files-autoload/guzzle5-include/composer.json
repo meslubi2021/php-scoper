@@ -1,6 +1,6 @@
 {
     "bin": "index.php",
     "require": {
-        "guzzlehttp/guzzle": "5.3.4"
+        "guzzlehttp/guzzle": "6.5.8"
     }
 }
